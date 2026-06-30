@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Zoomed Coin Base (Filling more space to reduce white edges) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M50,50m-49.5,0a49.5,49.5 0,1 1,99 0a49.5,49.5 0,1 1,-99 0"/>
+
+    <!-- Zoomed Green Outer Ring -->
+    <path
+        android:strokeColor="#4CAF50"
+        android:strokeWidth="3.5"
+        android:pathData="M50,50m-42,0a42,42 0,1 1,84 0a42,42 0,1 1,-84 0"/>
+
+    <!-- Zoomed Minimalist Trading Bar Chart -->
+
+    <!-- Left Bar -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M30,55 h10 v18 h-10 Z"/>
+
+    <!-- Middle Bar -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M45,32 h10 v41 h-10 Z"/>
+
+    <!-- Right Bar -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M60,43 h10 v30 h-10 Z"/>
+
+</vector>

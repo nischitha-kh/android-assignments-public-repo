@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Crypto Tracker</string>
+    <string name="dashboard_title">Crypto Tracker</string>
+    <string name="portfolio_title">My Portfolio</string>
+    <string name="alerts_title">Price Alerts</string>
+    <string name="coin_detail_default_title">Coin Detail</string>
+    <string name="total_value_label">Total Value</string>
+
+    <string name="add_to_portfolio_text">Add to Portfolio</string>
+    <string name="set_alert_text">Set Alert</string>
+    <string name="amount_label">Count</string>
+    <string name="buy_price_label">Buy Price ($)</string>
+    <string name="set_price_alert_dialog_title">Set Price Alert</string>
+    <string name="target_price_label">Target Price ($)</string>
+    <string name="above_label">Above</string>
+    <string name="below_label">Below</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="set_alert_confirm_button">Set Alert</string>
+    <string name="no_alerts_message">You haven\'t set any price alerts yet. Go to a coin\'s details to set one!</string>
+    <string name="no_portfolio_message">Your portfolio is empty. Add coins from the details screen to start tracking your assets!</string>
+</resources>
